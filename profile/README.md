@@ -16,12 +16,10 @@ Whether you're a die-hard supporter, a fantasy football aficionado, or simply lo
 - **Breaking News:** Be the first to know about the latest developments, transfer rumors, injury updates, and more with our timely news coverage.
 - **Transfer Updates:** Stay informed about player transfers, signings, and contract negotiations as they happen in the world of football.
 - **Predictive Insights:** Get ahead of the game with predictive analytics and forecasts for upcoming matches and tournaments.
+- **Newsletter:** You give us your favorite team, we'll give you the info
 
 ## Get Involved
 
-We're always looking to improve and expand FootyDash.IO, and we'd love to have you join us on this exciting journey! Whether you're a developer, designer, data analyst, or simply a passionate football fan, there are plenty of ways to contribute:
-
-- **Contribute Code:** Help us enhance and optimize our platform by contributing code to our open-source repository.
 - **Provide Feedback:** Share your thoughts, suggestions, and ideas for improvement. Your feedback is invaluable to us!
 - **Spread the Word:** Help us grow our community by sharing FootyDash.IO with your friends, family, and fellow football enthusiasts.
 
